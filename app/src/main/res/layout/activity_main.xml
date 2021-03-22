@@ -131,6 +131,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
+        android:inputType="numberSigned|numberDecimal"
         android:minWidth="48dp"
         android:text="."
         app:layout_constraintBaseline_toBaselineOf="@+id/button_0"
